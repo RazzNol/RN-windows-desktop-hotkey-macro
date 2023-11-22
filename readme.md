@@ -19,4 +19,5 @@ List of keyboard shortcuts:
 
 
 Requires: [AutoHotKey v.1.1](https://www.autohotkey.com/) (for the .ahk version)
+
 Not tested with AHK 2.0
